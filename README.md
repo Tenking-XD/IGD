@@ -1,4 +1,4 @@
-![Screenshot_2022-07-15-10-36-05-915_com termux](https://user-images.githubusercontent.com/109226204/179202857-803ff97a-229e-49c7-8abc-e4429b888c23.jpg)
+
 # install bahan 
 $ pkg update && pkg upgrade
 
@@ -34,4 +34,4 @@ $ python igev2py
 # suport 62bit
 
 # Hasil Crack
-
+![Screenshot_2022-07-15-10-36-05-915_com termux](https://user-images.githubusercontent.com/109226204/179202857-803ff97a-229e-49c7-8abc-e4429b888c23.jpg)
