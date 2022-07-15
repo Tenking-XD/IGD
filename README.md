@@ -28,3 +28,9 @@ $ git pull
 $ cd ig-prem
 
 $ python igev2py
+# suport kartu AXIS 
+
+# suport 62bit
+
+# Hasil Crack
+
