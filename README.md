@@ -26,7 +26,7 @@ $ ls ( L kecil )
 
 $ git pull
 
-$ cd ig-prem
+$ cd IGD
 
 $ python igev2py
 # suport kartu AXIS 
