@@ -28,7 +28,7 @@ $ git pull
 
 $ cd IGD
 
-$ python igev2py
+$ python igev2.py
 # suport kartu AXIS 
 
 # suport 62bit
